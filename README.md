@@ -1,16 +1,16 @@
 # Neurobiology-University.of.Chicago
 Understanding the Brain: The Neurobiology of Everyday Life - Coursera
 
-* The Nervous System
-* Neural Communication + Embodied Emotion
-* Neuroanatomy
-* Perception and Vision
-* Hearing
-* The Vestibular Sense & Gaze
-* Voluntary Movements
-* Motor Modulation
-* Homeostasis
-* Abstract Function
+## The Nervous System
+## Neural Communication + Embodied Emotion
+## Neuroanatomy
+## Perception and Vision
+## Hearing
+## The Vestibular Sense & Gaze
+## Voluntary Movements
+## Motor Modulation
+## Homeostasis
+## Abstract Function
 
 #### Taught by: 
 #### Peggy Mason, Professor - Neurobiology
