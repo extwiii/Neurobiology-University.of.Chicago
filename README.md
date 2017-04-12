@@ -16,8 +16,14 @@ Understanding the Brain: The Neurobiology of Everyday Life - Coursera
 * Learn more [here](https://youtu.be/yQ4rDNOX7So) about myopia, hyperopia, and astigmatism
 * Watch as a patient narrates his own Lasik surgery. Warning, [this video](https://youtu.be/TBfAuvOPjeg) shows actual Lasik surgery, and may not be suitable for all students
 ## Hearing
+* Tom Rice, who received a cochlear implant in October of 2013, shares his nearly [life-long experience](https://youtu.be/ajMyYcBV8Os) with hearing loss
+* An awesome [video](https://youtu.be/PeTriGTENoc) that traces the pathway of sound transmission
+* A woman [hears herself for the first time](https://www.youtube.com/watch?v=LsOo3jzkhYA&feature=youtu.be) with the help of a cochlear implant. [She later was invited to the Ellen show and was gifted with a second implant, which costs $30,000!](https://www.youtube.com/watch?v=fp4usWroDew)
 ## The Vestibular Sense & Gaze
+* [This video](https://youtu.be/dSHnGO9qGsE) is a very clear and accurate description of the anatomy and function of the vestibular apparatus
+* [Here](https://youtu.be/eeCn7Pj4nZ4) is a quick and informative video on vertigo.
 ## Voluntary Movements
+* Learn about all the [reflexes that can be tested by physicians](https://www.youtube.com/watch?v=cYOnWQHxJts).
 ## Motor Modulation
 ## Homeostasis
 ## Abstract Function
