@@ -2,6 +2,8 @@
 Understanding the Brain: The Neurobiology of Everyday Life - Coursera
 
 ## The Nervous System
+* [Here](https://youtu.be/cGv3Jj37jJc) a woman tells her story of being diagnosed with a brain tumor
+* A great introductory resource is provided by the [Society for Neuroscience](http://www.sfn.org/), called [BrainFacts](http://www.brainfacts.org/).
 ## Neural Communication + Embodied Emotion
 ## Neuroanatomy
 ## Perception and Vision
