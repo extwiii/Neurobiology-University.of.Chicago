@@ -1,4 +1,4 @@
-# Neurobiology-University.of.Chicago
+# Neurobiology-University.of.Chicago :white_check_mark:
 Understanding the Brain: The Neurobiology of Everyday Life - Coursera
 
 ## The Nervous System
@@ -25,8 +25,14 @@ Understanding the Brain: The Neurobiology of Everyday Life - Coursera
 ## Voluntary Movements
 * Learn about all the [reflexes that can be tested by physicians](https://www.youtube.com/watch?v=cYOnWQHxJts).
 ## Motor Modulation
+* [This video](https://youtu.be/zbwhRdSNUSY) nicely illustrates how the dendritic trees of Purkinje cells are in a single plane
+* Learn more about Parkinson's Disease from one of its most famous sufferers, [Michael J. Fox](https://youtu.be/fGlmOaC5Jko)
 ## Homeostasis
+* [Learn](https://youtu.be/NJEBfl_LKno) how animals regulate their body temperature in extremely hot and cold environments
+* [What would happen if you stopped sleeping?](https://youtu.be/nNhDkKAvxFk)
 ## Abstract Function
+* [Test your attention skills!](https://youtu.be/vJG698U2Mvo)
+* A fascinating series of videos chronicles one young woman's experience with Broca's (expressive) aphasia following a stroke at 18.The first [video](https://youtu.be/1aplTvEQ6ew) takes place 9 months after a stroke. [The second](https://youtu.be/Zi1yQhYpfFM) is a full 5 years after her stroke.
 
 #### Taught by: 
 #### Peggy Mason, Professor - Neurobiology
